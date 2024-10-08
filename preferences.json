@@ -1,0 +1,26 @@
+[
+    {
+        "property": "theme.zen_everforest.contrast_mode",
+        "label": "Use soft, medium, or hard contrast",
+        "type": "dropdown",
+        "options": [
+            {
+                "label": "Soft",
+                "value": "soft",
+            },
+            {
+                "label": "Medium",
+                "value": "medium",
+            },
+            {
+                "label": "Hard",
+                "value": "hard"
+            }
+        ]
+    },
+    {
+        "property": "theme.zen_everforest.enable_transparency",
+        "label": "Enable transparency (set browser.tabs.allow_transparent_browser to true for full effect)",
+        "type": "checkbox"
+    }
+]
